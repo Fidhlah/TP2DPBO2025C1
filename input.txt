@@ -1,0 +1,23 @@
+y
+ID2305672
+Jas Formal Untuk Pernikahan 
+150000
+23
+Pakaian
+Katun
+Hitam Putih
+Kucing
+L
+Danantara
+y
+ID121212
+Tukang Paket JNE 
+80000
+12
+Pakaian
+Katun
+Merah
+Kucing
+XXL
+wikwok
+n
