@@ -12,7 +12,7 @@ Setiap bahasa memiliki 4 file, 3 class dan 1 main/index. 3 class tersebut terdir
    - `nama_produk`
    - `harga_produk`
    - `stok_produk`
-   - `foto produk` (khusus PHP)
+   - `foto_produk` (khusus PHP)
 
 2. Aksesoris (child dari Petshop)
    - `jenis`
